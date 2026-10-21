@@ -1,4 +1,4 @@
-# Kyriacou Beauty Group — brand hub
+# Kyriacou — parent company site
 
 Static one-page site. `index.html` is self-contained (logos embedded).
 
