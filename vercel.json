@@ -1,0 +1,6 @@
+{
+  "redirects": [
+    { "source": "/press", "destination": "/", "permanent": true },
+    { "source": "/press/(.*)", "destination": "/", "permanent": true }
+  ]
+}
