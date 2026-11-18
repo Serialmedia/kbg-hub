@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://www.omorfiadayspa.com/", "permanent": false },
-    { "source": "/(.*)", "destination": "https://www.omorfiadayspa.com/", "permanent": false }
+    { "source": "/press", "destination": "/", "permanent": true },
+    { "source": "/press/(.*)", "destination": "/", "permanent": true }
   ]
 }
