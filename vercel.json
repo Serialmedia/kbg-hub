@@ -1,6 +1,8 @@
 {
   "redirects": [
-    { "source": "/press", "destination": "/", "permanent": true },
-    { "source": "/press/(.*)", "destination": "/", "permanent": true }
+    { "source": "/stavros", "destination": "https://kyriacoubeauty.com/stavros", "permanent": false },
+    { "source": "/stavros/(.*)", "destination": "https://kyriacoubeauty.com/stavros", "permanent": false },
+    { "source": "/", "destination": "https://kyriacoubeauty.com/", "permanent": false },
+    { "source": "/(.*)", "destination": "https://kyriacoubeauty.com/", "permanent": false }
   ]
 }
